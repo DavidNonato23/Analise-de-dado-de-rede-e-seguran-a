@@ -1,0 +1,6 @@
+[2025-10-05 00:54:24] USUARIO: Lucas | ACAO: Tentativa de login FALHOU: Usuário não encontrado
+[2025-10-05 00:54:38] USUARIO: David | ACAO: Login bem-sucedido
+[2025-10-05 00:55:33] USUARIO: David | ACAO: Login bem-sucedido
+[2025-10-05 01:14:14] USUARIO: David | ACAO: Login bem-sucedido
+[2025-10-05 01:15:37] USUARIO: David | ACAO: Login bem-sucedido
+[2025-10-05 01:38:22] USUARIO: David | ACAO: Login bem-sucedido
